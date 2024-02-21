@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Nanum+Gothic&family=UnifrakturMaguntia&display=swap');
+
 html, body {
     margin: 0;
     padding: 0;
@@ -39,19 +41,23 @@ html, body {
   h1, h2 {
     font-family: 'Rubik Doodle Shadow';
     color: #000000;
+    font-family: "UnifrakturMaguntia", cursive;
   }
   
   h1 {
     font-size: 40px;
+    font-family: "UnifrakturMaguntia", cursive;
   }
   
   h2 {
     font-size: 30px;
+    font-family: "UnifrakturMaguntia", cursive;
   }
   
   p {
     font-style: italic;
     font-size: 15px;
+    font-family: "UnifrakturMaguntia", cursive;
   }
   
   ol, ul {
@@ -62,6 +68,8 @@ html, body {
     color: #000000;
     font-weight: bold;
     font-size: 20px;
+    font-family: "UnifrakturMaguntia", cursive;
+    
   }
   a {
       color: rgb(106, 161, 233)
